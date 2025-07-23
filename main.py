@@ -1,16 +1,15 @@
-# Code (python)
 import datetime
 
 today = datetime.date.today()
 year = today.year
 x=0
-uncool = True
+found = True
 
-while uncool == True:
+while found == True:
   x+=1
   if x % 13 == 0 and x % 17 == 0:
     print("every ", x, " years, there will be 13&17 year cicadas")
-    uncool = False
+    found = False
 
 nextYearWithCicadas = year + x
 if nextYearWithCicadas % 13 != 0 or nextYearWithCicadas % 17 != 0:
