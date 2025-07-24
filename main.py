@@ -16,3 +16,5 @@ if nextYearWithCicadas % 13 != 0 or nextYearWithCicadas % 17 != 0:
   thireteenRemainder = nextYearWithCicadas % 13
   sec
 print("there will be year 13&17 cicadas in the year ", nextYearWithCicadas)
+
+close = input("Type anything to close this window:")
