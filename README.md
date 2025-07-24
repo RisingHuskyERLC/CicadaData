@@ -1,23 +1,20 @@
 # CicadaData
 
-This is a project made by: @RisingHuskyERLC to check when the next batch of cicadas will be here.
+This is a project made by @RisingHuskyERLC to check when the next year where Year 13&17 cicadas are out at the same time.
 
 ## Installation
 
-Download the ```.exe``` or ```.py``` file.
-
-IF YOU ARE USING THE ```.py``` FILE, MAKE SURE YOU HAVE [PYTHON](https://www.python.org/downloads/) INSTALLED
-
-## Usage
-
-Run the ```.exe``` or ```.py``` file to use. Press any key on your keyboard to finish when prompted.
+1. Download the ```.py``` file.
+2. Make sure you have [Python](https://www.python.org/downloads/) installed.
+3. Open a code editor(e.g. VS Code, IDLE)
+4. Run the file in the editor.
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please ensure that you update tests as needed.
 
 ## License
 
