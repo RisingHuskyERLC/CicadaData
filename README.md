@@ -1,6 +1,8 @@
+tbh i dont work on this anymore, this was just a project i made for fun
+
 # CicadaData
 
-This is a project made by @RisingHuskyERLC to check when the next year where Year 13&17 cicadas are out at the same time.
+This is a project made by @RisingHuskyERLC to check when the next year where Year 13 & 17 cicadas are out at the same time.
 
 ## Installation
 
@@ -19,7 +21,3 @@ Please ensure that you update tests as needed.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Notes
-
-New version from a while ago will be out next month(8/23/2025)
